@@ -248,12 +248,12 @@
   font-size: 1.875rem;
 }
 
-.solutions-section {
+/* .solutions-section {
   display: flex;
   align-items: center;
   width: 105.75rem;
   gap: 1.25rem;
-}
+} */
 
 .solutions-section .content-left {
   max-width: 63.625rem;
